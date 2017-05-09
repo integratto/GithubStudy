@@ -1,4 +1,4 @@
-# Issue一覧
+# Issue一覧ver0.0.2
 
 ※リンクURLのID番号はissue番号とする。
 
