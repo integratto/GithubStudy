@@ -1,4 +1,4 @@
-# Issue一覧 test
+# Issue一覧
 
 ※リンクURLのID番号はissue番号とする。
 
